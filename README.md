@@ -118,12 +118,12 @@
 
 ###
 
-<h1 align="left">Whenever Anytone land on my Repo Page There reaction Are ----></h1>
+<h1 align="left">Whenever Anyone land on my Repo Page There reaction Are ----></h1>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/its-amann/its-amann/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/its-amann/its-amann/blob/output/github-snake-dark.svg)
 
 ###
