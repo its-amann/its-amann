@@ -124,6 +124,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/its-amann/its-amann/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/its-amann/its-amann/blob/output/github-snake.svg)
 
 ###
