@@ -1,7 +1,7 @@
 # 🧑‍💻 Aman Agnihotri | Data Scientist & Machine Learning Enthusiast  
 
 ## 🌟 About Me  
-Hello! I'm Aman Agnihotri, a B.Sc. Data Analytics student at **Delhi Skill and Entrepreneurship University (DSEU)**. Passionate about **Data Science, Machine Learning, and AI**, I have developed expertise in building AI-driven solutions, data analytics, and deploying machine learning models at scale. My interests lie in **generative AI, MLOps, time series forecasting, and cloud-based model deployment**, and I have worked on several projects integrating **LLMs, deep learning, and end-to-end MLOps pipelines**.
+Hello! I'm Aman Agnihotri, a B.Sc. Data Analytics graduate student at **Delhi Skill and Entrepreneurship University (DSEU)** (CGPA : 9.51 , GPA (Scale 4) : 3.61). Passionate about **Data Science, Machine Learning, and AI**, I have developed expertise in building AI-driven solutions, data analytics, and deploying machine learning models at scale. My interests lie in **generative AI, MLOps, time series forecasting, and cloud-based model deployment**, and I have worked on several projects integrating **LLMs, deep learning, and end-to-end MLOps pipelines**.
 
 ---
 
