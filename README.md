@@ -6,7 +6,7 @@ Hello! I'm Aman Agnihotri, a B.Sc. Data Analytics graduate student at **Delhi Sk
 ---
 
 ## 🎓 Education  
-- **B.Sc. in Data Analytics** | Delhi Skill and Entrepreneurship University (DSEU) | **CGPA: 9.37**  
+- **B.Sc. in Data Analytics** | Delhi Skill and Entrepreneurship University (DSEU) | **CGPA: 9.51**  
 - **12th Grade** | MRV Model School | **85%**  
 
 
