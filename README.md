@@ -1,128 +1,167 @@
-# 🧑‍💻 Aman Agnihotri | Data Scientist & Machine Learning Enthusiast  
+# Hi, I'm Aman Agnihotri 👋
 
-## 🌟 About Me  
-Hello! I'm Aman Agnihotri, a B.Sc. Data Analytics graduate student at **Delhi Skill and Entrepreneurship University (DSEU)** (CGPA : 9.51). Passionate about **Data Science, Machine Learning, and AI**, I have developed expertise in building AI-driven solutions, data analytics, and deploying machine learning models at scale. My interests lie in **generative AI, MLOps, time series forecasting, and cloud-based model deployment**, and I have worked on several projects integrating **LLMs, deep learning, and end-to-end MLOps pipelines**.
+**Data Scientist | ML Engineer | Building AI Solutions That Matter**
 
----
-
-## 🎓 Education  
-- **B.Sc. in Data Analytics** | Delhi Skill and Entrepreneurship University (DSEU) | **CGPA: 9.51**  
-- **12th Grade** | MRV Model School | **85%**  
-
+I'm currently pursuing my MSc in Financial Engineering at WorldQuant University while working to transform complex data into actionable insights. Recently completed an internship at Dataviv Technologies where I optimized ML models and gained hands-on experience with production systems.
 
 ---
 
-## **🛠 Technical Skills**  
+## 💼 Professional Experience
 
-### **Programming Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  
+### Dataviv Technologies | AI/ML & MLOps Intern
+*Mar 2025 – May 2025 | Gurugram, Haryana*
 
-### **Libraries & Frameworks:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFBF00?style=flat-square&logo=huggingface&logoColor=white)  
+**Impact:** Gained production ML experience while contributing to model optimization and deployment infrastructure.
 
-### **Data Analysis & Visualization:**  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
-
-### **Machine Learning & NLP:**  
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-DC322F?style=flat-square&logo=python&logoColor=white) ![Transformers](https://img.shields.io/badge/-Transformers-FFBF00?style=flat-square&logo=huggingface&logoColor=white) ![BERT](https://img.shields.io/badge/-BERT-FFC107?style=flat-square&logo=tensorflow&logoColor=white) ![GPT](https://img.shields.io/badge/-GPT-0084FF?style=flat-square&logo=openaichatgpt&logoColor=white) ![RAG](https://img.shields.io/badge/-Retrieval_Augmented_Generation-663399?style=flat-square&logo=openaichatgpt&logoColor=white)  
-
-### **Databases & Big Data:**  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)  
-
-### **MLOps & Cloud Technologies:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
-
-### **Time Series & Forecasting:**  
-![ARIMA](https://img.shields.io/badge/-ARIMA-663399?style=flat-square&logo=scipy&logoColor=white) ![SARIMA](https://img.shields.io/badge/-SARIMA-800080?style=flat-square&logo=scipy&logoColor=white) ![N-BEATS](https://img.shields.io/badge/-N_BEATS-8A2BE2?style=flat-square&logo=pytorch&logoColor=white) ![Temporal Fusion Transformer](https://img.shields.io/badge/-TFT-663399?style=flat-square&logo=tensorflow&logoColor=white) ![Prophet](https://img.shields.io/badge/-Prophet-008080?style=flat-square&logo=python&logoColor=white) ![Holt-Winters](https://img.shields.io/badge/-Holt_Winters-FF5733?style=flat-square&logo=scipy&logoColor=white)  
-
-### **Web Development & Deployment:**  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![AWS Beanstalk](https://img.shields.io/badge/-AWS_Beanstalk-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
+* **Optimized model performance** by implementing quantization and PEFT techniques, achieving 50% reduction in inference latency for demonstration purposes
+* **Collaborated on ML feature development** with backend teams, creating FastAPI endpoints and containerizing services with Docker
+* **Designed CI/CD pipeline architecture** using GitHub Actions for automated testing and deployment (proof-of-concept stage)
+* **Fine-tuned open-source LLMs** for domain-specific tasks, improving baseline performance by 30% on evaluation metrics
 
 ---
 
-## 🚀 Projects  
+## 🚀 Featured Projects
 
-### 🔹 **Agentic AI: Multi-Agent Price Prediction System**  
-- **Developed an AI-powered pricing engine** utilizing **LLMs, RAG over 400K products**, and **ChromaDB** for dynamic pricing analysis.  
-- **Optimized model deployment** with **4-bit quantization, PEFT, Modal serverless, and GPT-4**, automating deal scanning and recommendation.  
-- **Technologies Used:** Python, LangChain, GPT-4, ChromaDB, Sentence Transformers, Hugging Face  
+### **MediCore AI Platform**
+**Problem:** Healthcare documentation workflows are time-consuming and error-prone.  
+**Solution:** Developed an integrated medical AI system prototype for automated DICOM processing and report generation.  
+**What I Built:** 
+* Real-time medical image analysis with heatmap visualization
+* Voice-to-text transcription using Whisper ASR for hands-free documentation  
+* RESTful API architecture with FastAPI backend and React frontend
+* Graph database (Neo4j) for complex medical data relationships
 
-### 🔹 **Cybersecurity AI: End-to-End MLOps Pipeline for Threat Detection**  
-- Designed a **fully automated MLOps pipeline** integrating **Apache Airflow, MLflow, and AWS Lambda** for real-time threat prediction.  
-- Achieved **95% detection accuracy** using ensemble ML models trained on **malware datasets** and **network anomaly logs**.  
-- **Technologies Used:** Docker, Apache Airflow, AWS, FastAPI, Python, Streamlit  
-
-### 🔹 **Multimodal Image Generation using VQGAN & CLIP**  
-- **Implemented a multimodal text-to-image pipeline** using **VQGAN + CLIP architecture**, enabling high-resolution **AI-generated artwork**.  
-- Developed a **full-stack web app (FastAPI + React)** for real-time user interaction and image synthesis.  
-- **Technologies Used:** PyTorch, CLIP, VQGAN, OpenAI API, React, FastAPI  
-
-### 🔹 **Time Series Forecasting using N-BEATS**  
-- Developed an **electricity price forecasting model** using **N-BEATS**, processing **8,400 hourly data points** across **5 regions**.  
-- Achieved **state-of-the-art forecasting performance** with **RMSE of 25.42 EUR/MWh**, outperforming traditional ARIMA models.  
-- **Technologies Used:** TensorFlow, N-BEATS, Pandas, Time Series Analysis  
-
-### 🔹 **Data Warehouse & Mining: OLAP & Clustering Techniques**  
-- Implemented **ETL pipelines** for **dimensional storage (ROLAP, MOLAP, HOLAP, DOLAP)** and developed **association mining models**.  
-- Built **interactive dashboards in Tableau & Power BI** for real-time **data visualization & analytics**.  
-- **Technologies Used:** SQL, Tableau, Power BI, Data Mining Techniques  
+**Tech Stack:** FastAPI, React, Neo4j, WebRTC, Docker, Whisper ASR
 
 ---
 
-# **📚 Academic Courses (B.Sc. Data Analytics)**  
+### **URL Threat Detection System** 
+**Problem:** Needed hands-on experience with MLOps tools and security applications.  
+**Solution:** Built an educational project to detect malicious URLs using ensemble ML methods.  
+**Learning Outcomes:**
+* Implemented Apache Airflow DAGs for automated data pipeline orchestration
+* Practiced with MongoDB for unstructured data storage
+* Experimented with MLflow for model versioning and experiment tracking
+* Deployed Random Forest classifier achieving 95% accuracy on test dataset
+* Containerized entire application using Docker for reproducibility
 
-## **📌 Semester 1:**  
-- **Basics of Computing**  
-- **Python Programming**  
-- **Data Collection & Statistical Analysis** *(Used R for statistical analysis)*  
-- **Mathematical Foundation for Data Analytics - I** *(Used Mathematica & Python for practical applications)*  
-- **Fundamentals of Excel**  
-- **English Communication - I**  
-
-## **📌 Semester 2:**  
-- **Database Management System** *(Worked with SQL for relational data storage)*  
-- **Mathematical Foundation for Data Analytics - II** *(Used Python for advanced calculations)*  
-- **Visualization and Storytelling with Data** *(Implemented projects using Tableau)*  
-- **Advanced Excel**  
-- **Environmental Studies - I**  
-
-## **📌 Semester 3:**  
-- **Statistics for Data Analytics**  
-- **Basics of Machine Learning** *(Implemented models using Scikit-Learn & TensorFlow)*  
-- **Data Structures and Algorithms** *(Used Python & C++)*  
-- **Basics of Economics**  
-- **MooC: Power BI / Qlik** *(Learned Power BI for business analytics)*  
-
-## **📌 Semester 4:**  
-- **Advanced Machine Learning** *(Studied Genetic Algorithms, Explainable AI, Factor Analysis, and Dimensionality Reduction)*  
-- **Natural Language Processing** *(Used Hugging Face Transformers for text processing)*  
-- **Visual Analytics** *(Explored advanced visualization techniques using Tableau & Power BI)*  
-- **MooC: Web Development & Design** *(Scored 'O' grade, indicating outstanding performance)*  
-
-## **📌 Semester 5:**  
-- **Model Deployment and Cloud Management** *(Worked with AWS, Docker, and Kubernetes for deploying ML models)*  
-- **Time Series and Forecasting** *(Built models using N-BEATS, ARIMA, and Temporal Fusion Transformers)*  
-- **Cybersecurity** *(Integrated AI-based anomaly detection for security applications)*  
-- **Data Warehouse and Mining** *(Learned ETL, Clustering, Association Rules, OLAP techniques - ROLAP, MOLAP, HOLAP, DOLAP)*  
-- **Artificial Intelligence** *(Explored deep learning architectures and real-world AI applications)*  
+**Tech Stack:** Random Forest, MongoDB, Apache Airflow, MLflow, Docker, AWS EC2
 
 ---
 
-## 🎖 Achievements & Certifications  
-- **Tableau Certified Data Analyst** – Udemy  
-- **Complete MLOps Bootcamp** – Udemy  
-- **AWS Certified Data Engineer Associate - DEA-C01** – Udemy  
-- **Machine Learning by Andrew Ng** – Coursera  
-- **SQL for Data Science** – Scaler  
+### **Deep Learning from Scratch**
+**Motivation:** To deeply understand AI beyond just using libraries and APIs.  
+**Implementations:**
+* **Vision Transformer (ViT)**: Built complete architecture including multi-head attention mechanism
+* **SigLIP Vision Transformer**: Implemented contrastive learning approach for vision-language tasks
+* **GANs**: Created generator-discriminator networks for synthetic image generation
+* **ResNet**: Implemented residual connections and skip pathways from paper
+
+*These implementations helped me debug and optimize production models more effectively.*
 
 ---
 
-## 📬 How to Reach Me  
-- **LinkedIn:** [Aman Agnihotri](https://www.linkedin.com/in/aman-agnihotri004/)  
-- **GitHub:** [its-amann](https://github.com/its-amann)  
-- **Email:** amanagnihotri902@gmail.com  
+### **Multi-Agent Price Intelligence System**
+**Problem:** E-commerce businesses need competitive pricing insights.  
+**Solution:** Developed a RAG-based system analyzing 400K+ products using LLMs and vector databases.  
+**Technical Highlights:**
+* Implemented 4-bit quantization for efficient LLM deployment
+* Built semantic search using ChromaDB and sentence transformers
+* Created agentic workflows with LangChain for automated analysis
 
 ---
+
+## 🎓 Education & Academic Foundation
+
+### **MSc Financial Engineering** | WorldQuant University 
+*2025-2027 (In Progress)*
+* Combining quantitative finance with machine learning applications
+
+### **BSc Data Analytics** | Delhi Skill and Entrepreneurship University
+*CGPA: 9.51 | Graduated 2024*
+
+**Relevant Coursework Applied in Projects:**
+* **Machine Learning & Deep Learning**: Implemented neural networks from scratch, worked with TensorFlow/PyTorch
+* **Time Series Forecasting**: Built N-BEATS model for electricity price prediction (RMSE: 25.42 EUR/MWh)
+* **Natural Language Processing**: Developed transformers, worked with Hugging Face models
+* **MLOps & Cloud Deployment**: Learned Docker, Kubernetes, AWS services - applied in internship
+* **Data Warehousing**: Implemented ETL pipelines with Apache Spark, built OLAP cubes
+* **Cybersecurity**: Applied ML for anomaly detection in security applications
+* **Big Data Analytics**: Worked with Apache Spark for distributed computing
+* **Statistical Analysis**: Used R for hypothesis testing and predictive modeling
+
+---
+
+## 🎯 What I Bring to Your Team
+
+* **Strong Academic Foundation:** Top of class (9.51 CGPA) with deep theoretical understanding
+* **Practical Experience:** Internship exposure to production ML systems and deployment challenges
+* **Self-Directed Learning:** Built complex projects independently to understand concepts deeply
+* **Growth Mindset:** Actively pursuing advanced degree while building practical skills
+* **Clear Communication:** Can explain complex ML concepts to both technical and non-technical stakeholders
+
+---
+
+## 🛠️ Technical Proficiencies
+
+### **Core Skills**
+* **Languages:** Python (Primary), SQL, R
+* **ML/DL Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers
+* **MLOps:** Docker, GitHub Actions, MLflow, Apache Airflow
+* **Cloud & Databases:** AWS (EC2, S3, Lambda), Azure (AI-102 Certified), MongoDB, PostgreSQL
+* **Data Engineering:** Apache Spark, Pandas, ETL pipelines
+* **Visualization:** Tableau, Power BI, Matplotlib/Seaborn
+
+### **Specialized Areas**
+* Natural Language Processing (BERT, GPT, RAG systems)
+* Computer Vision (CNNs, Vision Transformers)
+* Time Series Analysis (ARIMA, N-BEATS, Prophet)
+* Reinforcement Learning (Currently learning)
+
+---
+
+## 🏆 Certifications & Achievements
+
+* **Microsoft Certified: Azure AI Engineer Associate (AI-102)** - Validates cloud AI deployment skills
+* **Machine Learning by Andrew Ng** (Coursera) - Foundation for all ML work
+* **LeetCode 50 Days Badge** - Top 6.7% for consistent problem-solving
+* **Academic Excellence** - Consistent top performer with 9.51 CGPA
+
+---
+
+## 🌱 Current Focus Areas
+
+* **Quantitative Finance:** Applying ML to financial markets through MSc program
+* **Production ML:** Building more robust, scalable systems beyond POCs
+* **Open Source:** Planning contributions to scikit-learn documentation
+* **Research:** Exploring attention mechanisms for time series forecasting
+
+---
+
+## 📫 Let's Connect
+
+I'm eager to join a team where I can contribute to meaningful projects while continuing to grow as an ML engineer. I'm particularly interested in roles that combine:
+- Complex problem-solving with real-world impact
+- Opportunities to work across the full ML lifecycle
+- Collaborative environments that value continuous learning
+
+**Reach out to discuss opportunities:**
+* 📧 Email: amanagnihotri902@gmail.com
+* 💼 LinkedIn: [aman-agnihotri004](https://www.linkedin.com/in/aman-agnihotri004/)
+* 🐙 GitHub: [its-amann](https://github.com/its-amann)
+
+---
+
+### 💭 A Personal Note
+
+I believe in being transparent about my journey. As a recent graduate, I'm still learning and growing. Every project here represents genuine effort to understand concepts deeply rather than just following tutorials. I'm not claiming to be an expert yet, but I'm committed to becoming one through continuous learning and practical application.
+
+My approach: Start with curiosity, build with purpose, and iterate based on feedback.
+
+---
+
+*"In God we trust, all others bring data."* - W. Edwards Deming
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-amann&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-amann&layout=compact&theme=dark)
 ![snake gif](https://github.com/its-amann/its-amann/blob/output/github-snake-dark.svg)
-### Let's Collaborate and Create Something Amazing! 🚀  
-
