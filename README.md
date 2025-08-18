@@ -162,6 +162,4 @@ My approach: Start with curiosity, build with purpose, and iterate based on feed
 
 *"In God we trust, all others bring data."* - W. Edwards Deming
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-amann&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-amann&layout=compact&theme=dark)
 ![snake gif](https://github.com/its-amann/its-amann/blob/output/github-snake-dark.svg)
