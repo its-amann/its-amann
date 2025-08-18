@@ -35,7 +35,7 @@ I'm currently pursuing my MSc in Financial Engineering at WorldQuant University 
 
 ---
 
-### **URL Threat Detection System** 
+### **Cybersecurity AI: End-to-End MLOps Pipeline for Threat Detection** 
 **Problem:** Needed hands-on experience with MLOps tools and security applications.  
 **Solution:** Built an educational project to detect malicious URLs using ensemble ML methods.  
 **Learning Outcomes:**
