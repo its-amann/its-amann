@@ -1,165 +1,93 @@
-# Hi, I'm Aman Agnihotri 👋
+# Hi, I’m Aman Agnihotri 👋
 
-**Data Scientist | ML Engineer | Building AI Solutions That Matter**
+**AI/ML Engineer (LLM Apps + MLOps) | Python | FastAPI | Airflow | Vector Search**
 
-I'm currently pursuing my MSc in Financial Engineering at WorldQuant University while working to transform complex data into actionable insights. Recently completed an internship at Dataviv Technologies where I optimized ML models and gained hands-on experience with production systems.
+I build production-focused AI systems: LLM agents, RAG + hybrid search, multilingual data pipelines, and deployable ML services with strong attention to **latency, cost, and reliability**.
+
+- 🧠 LLM Apps: LangGraph / LangChain, RAG, tracing/observability
+- ⚙️ Backend: FastAPI, async, WebSockets, worker pools
+- 🗃️ Search/Data: Vector DBs (e.g., Weaviate/Chroma), SQL/NoSQL, pipelines (Airflow)
+- 🚀 MLOps: Docker, CI/CD (GitHub Actions), monitoring (Prometheus), AWS
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### Dataviv Technologies | AI/ML & MLOps Intern
-*Mar 2025 – May 2025 | Gurugram, Haryana*
+### **AI Developer — Digitem Technologies**
+- Built a multilingual document-filtering pipeline (batching + caching + async) to replace a slower LLM-heavy workflow.
+- Reduced report generation runtime by optimizing pipeline stages and cutting unnecessary external API calls.
+- Worked on hybrid search features (vector + keyword) and implemented boolean/phrase search for diverse unstructured sources.
+- Built LLM agent workflows and automated report generation (PDF/DOC), with tracing for debugging and performance.
 
-**Impact:** Gained production ML experience while contributing to model optimization and deployment infrastructure.
-
-* **Optimized model performance** by implementing quantization and PEFT techniques, achieving 50% reduction in inference latency for demonstration purposes
-* **Collaborated on ML feature development** with backend teams, creating FastAPI endpoints and containerizing services with Docker
-* **Designed CI/CD pipeline architecture** using GitHub Actions for automated testing and deployment (proof-of-concept stage)
-* **Fine-tuned open-source LLMs** for domain-specific tasks, improving baseline performance by 30% on evaluation metrics
+### **AI/ML & MLOps Intern — Dataviv Technologies**
+- Fine-tuned open-source LLMs for domain tasks using PEFT (LoRA/QLoRA) and built training/eval scripts.
+- Improved inference latency using post-training quantization and validated quality vs baseline.
+- Deployed containerized inference services (FastAPI + Docker) and integrated CI/CD with GitHub Actions.
 
 ---
 
 ## 🚀 Featured Projects
 
-### **MediCore AI Platform**
-**Problem:** Healthcare documentation workflows are time-consuming and error-prone.  
-**Solution:** Developed an integrated medical AI system prototype for automated DICOM processing and report generation.  
-**What I Built:** 
-* Real-time medical image analysis with heatmap visualization
-* Voice-to-text transcription using Whisper ASR for hands-free documentation  
-* RESTful API architecture with FastAPI backend and React frontend
-* Graph database (Neo4j) for complex medical data relationships
+### **Medicore AI (Prototype)**
+A medical documentation assistant prototype:
+- Speech-to-text (Whisper) + structured note generation
+- DICOM/X-ray report generation (prototype workflow)
+- FastAPI backend + React frontend + Neo4j graph relationships  
+**Stack:** FastAPI, React, Neo4j, Docker, Whisper
 
-**Tech Stack:** FastAPI, React, Neo4j, WebRTC, Docker, Whisper ASR
+> Note: This is a personal prototype. I’m happy to share architecture details, benchmarks, and demos during interviews.
 
 ---
 
-### **Cybersecurity AI: End-to-End MLOps Pipeline for Threat Detection** 
-**Problem:** Needed hands-on experience with MLOps tools and security applications.  
-**Solution:** Built an educational project to detect malicious URLs using ensemble ML methods.  
-**Learning Outcomes:**
-* Implemented Apache Airflow DAGs for automated data pipeline orchestration
-* Practiced with MongoDB for unstructured data storage
-* Experimented with MLflow for model versioning and experiment tracking
-* Deployed Random Forest classifier achieving 95% accuracy on test dataset
-* Containerized entire application using Docker for reproducibility
-
-**Tech Stack:** Random Forest, MongoDB, Apache Airflow, MLflow, Docker, AWS EC2
+### **Cybersecurity AI — Threat Detection + MLOps**
+End-to-end pipeline to detect malicious URLs:
+- Airflow DAGs for pipeline orchestration
+- MLflow experiment tracking + model versioning
+- Dockerized service + AWS deployment  
+**Stack:** Random Forest / XGBoost, MongoDB, Airflow, MLflow, Docker, AWS
 
 ---
 
-### **Deep Learning from Scratch**
-**Motivation:** To deeply understand AI beyond just using libraries and APIs.  
-**Implementations:**
-* **Vision Transformer (ViT)**: Built complete architecture including multi-head attention mechanism
-* **SigLIP Vision Transformer**: Implemented contrastive learning approach for vision-language tasks
-* **GANs**: Created generator-discriminator networks for synthetic image generation
-* **ResNet**: Implemented residual connections and skip pathways from paper
-
-*These implementations helped me debug and optimize production models more effectively.*
+### **Price Intelligence (RAG + Agents)**
+RAG-based pricing analysis over a large product catalog:
+- Vector search with sentence embeddings + ChromaDB
+- Agentic analysis workflow  
+**Stack:** RAG, Vector DB, Sentence Transformers, LangChain
 
 ---
 
-### **Multi-Agent Price Intelligence System**
-**Problem:** E-commerce businesses need competitive pricing insights.  
-**Solution:** Developed a RAG-based system analyzing 400K+ products using LLMs and vector databases.  
-**Technical Highlights:**
-* Implemented 4-bit quantization for efficient LLM deployment
-* Built semantic search using ChromaDB and sentence transformers
-* Created agentic workflows with LangChain for automated analysis
+## 🧪 Research / Experiments
+
+### **Adaptive Locality Attention (ALA)**
+Explored a transformer attention variant that injects a learnable locality bias to reduce early training noise and improve stability.
 
 ---
 
-## 🎓 Education & Academic Foundation
+## 🛠️ Tech Stack
 
-### **MSc Financial Engineering** | WorldQuant University 
-*2025-2027 (In Progress)*
-* Combining quantitative finance with machine learning applications
-
-### **BSc Data Analytics** | Delhi Skill and Entrepreneurship University
-*CGPA: 9.51 | Graduated 2024*
-
-**Relevant Coursework Applied in Projects:**
-* **Machine Learning & Deep Learning**: Implemented neural networks from scratch, worked with TensorFlow/PyTorch
-* **Time Series Forecasting**: Built N-BEATS model for electricity price prediction (RMSE: 25.42 EUR/MWh)
-* **Natural Language Processing**: Developed transformers, worked with Hugging Face models
-* **MLOps & Cloud Deployment**: Learned Docker, Kubernetes, AWS services - applied in internship
-* **Data Warehousing**: Implemented ETL pipelines with Apache Spark, built OLAP cubes
-* **Cybersecurity**: Applied ML for anomaly detection in security applications
-* **Big Data Analytics**: Worked with Apache Spark for distributed computing
-* **Statistical Analysis**: Used R for hypothesis testing and predictive modeling
+**Languages:** Python, SQL, JavaScript  
+**ML/DL:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, XGBoost  
+**LLM Systems:** LangGraph, LangChain, RAG, evaluation + tracing  
+**Data/MLOps:** Airflow, Docker, GitHub Actions, MLflow, Prometheus  
+**Databases:** PostgreSQL, MongoDB, Neo4j, ChromaDB (and other vector DBs)
 
 ---
 
-## 🎯 What I Bring to Your Team
-
-* **Strong Academic Foundation:** Top of class (9.51 CGPA) with deep theoretical understanding
-* **Practical Experience:** Internship exposure to production ML systems and deployment challenges
-* **Self-Directed Learning:** Built complex projects independently to understand concepts deeply
-* **Growth Mindset:** Actively pursuing advanced degree while building practical skills
-* **Clear Communication:** Can explain complex ML concepts to both technical and non-technical stakeholders
+## 🎓 Certifications
+- Microsoft Certified: **Azure AI Engineer Associate (AI-102)**
 
 ---
 
-## 🛠️ Technical Proficiencies
-
-### **Core Skills**
-* **Languages:** Python (Primary), SQL, R
-* **ML/DL Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers
-* **MLOps:** Docker, GitHub Actions, MLflow, Apache Airflow
-* **Cloud & Databases:** AWS (EC2, S3, Lambda), Azure (AI-102 Certified), MongoDB, PostgreSQL
-* **Data Engineering:** Apache Spark, Pandas, ETL pipelines
-* **Visualization:** Tableau, Power BI, Matplotlib/Seaborn
-
-### **Specialized Areas**
-* Natural Language Processing (BERT, GPT, RAG systems)
-* Computer Vision (CNNs, Vision Transformers)
-* Time Series Analysis (ARIMA, N-BEATS, Prophet)
-* Reinforcement Learning (Currently learning)
+## 📫 Contact
+- Email: **amanagnihotri902@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/aman-agnihotri004/**
+- GitHub: **https://github.com/its-amann**
 
 ---
 
-## 🏆 Certifications & Achievements
-
-* **Microsoft Certified: Azure AI Engineer Associate (AI-102)** - Validates cloud AI deployment skills
-* **Machine Learning by Andrew Ng** (Coursera) - Foundation for all ML work
-* **LeetCode 50 Days Badge** - Top 6.7% for consistent problem-solving
-* **Academic Excellence** - Consistent top performer with 9.51 CGPA
-
----
-
-## 🌱 Current Focus Areas
-
-* **Quantitative Finance:** Applying ML to financial markets through MSc program
-* **Production ML:** Building more robust, scalable systems beyond POCs
-* **Open Source:** Planning contributions to scikit-learn documentation
-* **Research:** Exploring attention mechanisms for time series forecasting
-
----
-
-## 📫 Let's Connect
-
-I'm eager to join a team where I can contribute to meaningful projects while continuing to grow as an ML engineer. I'm particularly interested in roles that combine:
-- Complex problem-solving with real-world impact
-- Opportunities to work across the full ML lifecycle
-- Collaborative environments that value continuous learning
-
-**Reach out to discuss opportunities:**
-* 📧 Email: amanagnihotri902@gmail.com
-* 💼 LinkedIn: [aman-agnihotri004](https://www.linkedin.com/in/aman-agnihotri004/)
-* 🐙 GitHub: [its-amann](https://github.com/its-amann)
-
----
-
-### 💭 A Personal Note
-
-I believe in being transparent about my journey. As a recent graduate, I'm still learning and growing. Every project here represents genuine effort to understand concepts deeply rather than just following tutorials. I'm not claiming to be an expert yet, but I'm committed to becoming one through continuous learning and practical application.
-
-My approach: Start with curiosity, build with purpose, and iterate based on feedback.
-
----
-
-*"In God we trust, all others bring data."* - W. Edwards Deming
+### 🌱 Currently Improving
+- Production-grade RAG evaluation + retrieval testing
+- Faster inference + caching strategies for LLM apps
+- Better data quality + pipeline reliability
 
 ![snake gif](https://github.com/its-amann/its-amann/blob/output/github-snake-dark.svg)
